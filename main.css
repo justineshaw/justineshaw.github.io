@@ -139,6 +139,11 @@ q {
   width: 25%;
 }
 
+.column > p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 /* Clear floats after the columns */
 .row::after {
   content: "";
