@@ -14,7 +14,6 @@ body {
 
 .remax {
   padding: 50px;
-  float: right;
 }
 
 .section-title {
@@ -186,6 +185,7 @@ q {
   color: white;
 }
 .social-container {
-  position: fixed;
-  left: 50%;
+  display: table;
+  margin: 0 auto;
+  padding-top: 20px;
 }
