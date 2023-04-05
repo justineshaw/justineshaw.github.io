@@ -185,3 +185,7 @@ q {
   background: #125688;
   color: white;
 }
+.social-container {
+  position: fixed;
+  left: 50%;
+}
