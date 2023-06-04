@@ -12,11 +12,6 @@ body {
   padding-top: 50px;
 }
 
-.remax {
-  padding: 50px;
-  float: right;
-}
-
 .section-title {
   font-size: 40px;
   font-weight: 900;
@@ -189,4 +184,30 @@ q {
   display: table;
   margin: 0 auto;
   padding-top: 50px;
+}
+
+.right-padding {
+  padding-right: 30px;
+}
+
+.mortgage-section {
+  padding-top: 50px;
+  padding-bottom: 15px;
+  text-align: center;
+  background: #f1f1f1f1;
+}
+
+.mortgage div {
+  margin-top: 20px;
+}
+
+.mortgage div p {
+  font-size: 10px;
+  margin: 2px;
+  /* padding-top: 5px; */
+}
+
+.remax {
+  padding-bottom: 30px;
+  /* float: right; */
 }
